@@ -1,0 +1,12 @@
+sprite 3run sama 8run bisa jadi jump
+
+
+1run sama 6 run animasi idle
+
+urutan buat run
+
+right
+2run -> 3run -> 2run -> 4run -> 5run -> 4run
+
+left
+7run -> 8run -> 7run -> 9run ->10run -> 9run
